@@ -29,4 +29,4 @@ The project is built using:
 ### 📬 Contact
 
 Have questions or want to collaborate? Feel free to reach out!
-*   **GitHub:** [YourUsername](https://github.com/PgmenskyOfficial)
+*   **GitHub:** [Pgmensky](https://github.com/PgmenskyOfficial)
