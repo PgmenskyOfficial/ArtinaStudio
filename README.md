@@ -25,7 +25,10 @@ The project is built using:
 *   **Language & Framework:** C# / WPF
 
 ---
+## 📅 Planned Releases
 
+* 🚀 **v0.1** — Expected: Mid-October / Early November
+---
 ### 📬 Contact
 
 Have questions or want to collaborate? Feel free to reach out!
