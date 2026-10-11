@@ -22,7 +22,7 @@
 
 The project is built using:
 
-* **Language & Framework:** C++/Qt
+* **Language & Framework:** C++/Qt (Once upon a time, C#/WPF was the reason it didn't work as it should.)
 
 ---
 
