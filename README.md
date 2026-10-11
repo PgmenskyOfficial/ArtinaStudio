@@ -12,9 +12,9 @@
 
 ## ✨ Key Features (Planned)
 
-*   ✨ **Clean yet Modern Look** – A minimalist, elegant, and up-to-date user interface designed with attention to detail.
-*   ⚡ **Actively Growing** – New features and improvements are being actively and continuously added.
-*   **Progress** – The program is constantly being developed by one person, so it's hard to say for now.
+* **Clean yet Modern Look** – A minimalist, elegant, and up-to-date user interface designed with attention to detail.
+* **Actively Growing** – New features and improvements are being actively and continuously added.
+* **Progress** – The program is constantly being developed by one person, so it's hard to say for now.
 
 ---
 
@@ -22,14 +22,17 @@
 
 The project is built using:
 
-*   **Language & Framework:** C# / WPF
+* **Language & Framework:** C++/Qt
 
 ---
+
 ## 📅 Planned Releases
 
-* 🚀 **v0.1** — Expected: Mid-October / Early November
+- 🚀 **v0.1** — Expected: Mid-October / Early November
+
 ---
+
 ### 📬 Contact
 
 Have questions or want to collaborate? Feel free to reach out!
-*   **GitHub:** [Pgmensky](https://github.com/PgmenskyOfficial)
+* **GitHub:** [Pgmensky](https://github.com/PgmenskyOfficial)
