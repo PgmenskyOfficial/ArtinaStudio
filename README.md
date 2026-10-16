@@ -1,4 +1,4 @@
-# 🎨 ArtinaStudio
+# 🎨 ArtinaSuite
 
 > **Work in Progress (WIP)** — The official application and portfolio for ArtinaStudio. This project is currently under active development.
 
